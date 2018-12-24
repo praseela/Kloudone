@@ -1,6 +1,6 @@
 # Kloudone
 
-I created Rest Api using Sprng Tool Suite for Job Posting Project (Backend end logic).
+I created Rest Api using Spring Tool Suite for Job Posting Project (Backend end logic).
 Rest API:
 GET: 
      http:localhost:8080/job
